@@ -1,5 +1,5 @@
 import '@testing-library/jest-dom';
-import { getByRole, render } from "@testing-library/react";
+import { render } from "@testing-library/react";
 import Button from "./index";
 
 describe("<Button>", () => {
